@@ -5,12 +5,12 @@ import { initializeApp } from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: 'mern-auth-1c4ae.firebaseapp.com',
-  projectId: 'mern-auth-1c4ae',
-  storageBucket: 'mern-auth-1c4ae.appspot.com',
-  messagingSenderId: '277641423672',
-  appId: '1:277641423672:web:2de25252aae022d51aafcd',
+  apiKey: " import.meta.env.VITE_FIREBASE_API_KEY",
+  authDomain: "mediconnect-12a72.firebaseapp.com",
+  projectId: "mediconnect-12a72",
+  storageBucket: "mediconnect-12a72.appspot.com",
+  messagingSenderId: "491786069634",
+  appId: "1:491786069634:web:fc8341b6ae3653660b769b"
 };
 
 // Initialize Firebase
